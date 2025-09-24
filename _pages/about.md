@@ -30,4 +30,4 @@ I am a 1st year Master student at [School of Information Science and Technology]
 - *2021.09 - 2025.06*, Undergraduate, Nanjing University of Post and Telecommunications, China
 
 # 💻 Internships
-- *2023.07 - 2023.09*, [厦门中盾安信科技有限公司]([https://github.com/](https://anicert.cn/)), China.
+- *2023.07 - 2023.09*, [厦门中盾安信科技有限公司](https://anicert.cn/), China.
