@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
+# 🔥 About me
 I am a 1st year Master student at [School of Information Science and Technology]("https://sist.shanghaitech.edu.cn/"), [ShanghaiTech Unvieristy](https://www.shanghaitech.edu.cn/#). I am actively involved in research at ViSeer LAB, under the supervision of [Prof. Quan Li (李权)](https://faculty.sist.shanghaitech.edu.cn/liquan/)..
 
-
-# 🔥 News
 # 📝 Publications 
 
 # 🎖 Honors and Awards
