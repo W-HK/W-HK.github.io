@@ -18,30 +18,21 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a 1st year Master student at [School of Information Science and Technology]("https://sist.shanghaitech.edu.cn/"), [ShanghaiTech Unvieristy](https://www.shanghaitech.edu.cn/#) advised by [Prof. Quan Li (李权)](https://faculty.sist.shanghaitech.edu.cn/liquan/)..
+I am a 1st year Master student at [School of Information Science and Technology]("https://sist.shanghaitech.edu.cn/"), [ShanghaiTech Unvieristy](https://www.shanghaitech.edu.cn/#). I am actively involved in research at ViSeer LAB, under the supervision of [Prof. Quan Li (李权)](https://faculty.sist.shanghaitech.edu.cn/liquan/)..
 
 
-# 🔥 News
- 
+//# 🔥 News
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+//# 📝 Publications 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.02*, Honorable Mention Prize in Mathematical Contest In Modeling 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.09 - present*, Master Student, Shanghaitech University, China
+- *2021.09 - 2025.06*, Undergraduate, Nanjing University of Post and Telecommunications, China
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.07 - 2023.09*, [厦门中盾安信科技有限公司]([https://github.com/](https://anicert.cn/)), China.
